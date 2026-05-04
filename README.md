@@ -19,6 +19,8 @@ The application includes a login interface and redirects users to a functional c
 
 ##  Screenshots
 (<img width="960" height="439" alt="image" src="https://github.com/user-attachments/assets/f6f4fb57-736e-4c17-bcbe-2853b161eafe" />
+) (<img width="955" height="439" alt="image" src="https://github.com/user-attachments/assets/e5869e96-a3cd-49fb-9ee1-bf5cc76e82b9" />
+)(<img width="956" height="435" alt="image" src="https://github.com/user-attachments/assets/95b4caea-f594-44f7-a015-cdd9db54fcba" />
 )
 
 ##  Future Improvements
